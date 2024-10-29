@@ -17,3 +17,4 @@ CSS
 Django
 SQLite
 Contact: AkmaljonGold@gmail.com
+========> https://roadmap.sh/projects/personal-blog
